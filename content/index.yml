@@ -9,9 +9,9 @@ hero:
       to: https://github.com/nuxt-ui-pro/portfolio
       color: neutral
   images:
-    - src: https://picsum.photos/468/468?random=3
+    - src: /gpo-seagull.jpg
       alt: Random Image 3
-    - src: https://picsum.photos/468/468?random=5
+    - src: /marcohorse.jpg
       alt: Random Image 5
     - src: https://picsum.photos/468/468?random=8
       alt: Random Image 8
